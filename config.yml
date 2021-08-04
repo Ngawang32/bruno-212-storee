@@ -1,0 +1,5 @@
+development:
+  password: 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
+  theme_id: "125433512132"
+  store: bruno-212-store.myshopify.com
+  ignore_files: config/setting_data.json
